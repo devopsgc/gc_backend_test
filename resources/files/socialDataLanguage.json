@@ -1,0 +1,830 @@
+{
+    "status": true,
+    "data": [
+      {
+        "code": "en",
+        "name": "English",
+        "count": 75742457
+      },
+      {
+        "code": "es",
+        "name": "Spanish",
+        "count": 49764534
+      },
+      {
+        "code": "pt",
+        "name": "Portuguese",
+        "count": 47199714
+      },
+      {
+        "code": "ru",
+        "name": "Russian",
+        "count": 36833139
+      },
+      {
+        "code": "ar",
+        "name": "Arabic",
+        "count": 34128209
+      },
+      {
+        "code": "fr",
+        "name": "French",
+        "count": 32646291
+      },
+      {
+        "code": "it",
+        "name": "Italian",
+        "count": 29005766
+      },
+      {
+        "code": "de",
+        "name": "German",
+        "count": 27330340
+      },
+      {
+        "code": "fa",
+        "name": "Persian",
+        "count": 22733388
+      },
+      {
+        "code": "id",
+        "name": "Indonesian",
+        "count": 22500954
+      },
+      {
+        "code": "tr",
+        "name": "Turkish",
+        "count": 22255283
+      },
+      {
+        "code": "ja",
+        "name": "Japanese",
+        "count": 11245197
+      },
+      {
+        "code": "pl",
+        "name": "Polish",
+        "count": 10066280
+      },
+      {
+        "code": "th",
+        "name": "Thai",
+        "count": 7054625
+      },
+      {
+        "code": "zh",
+        "name": "Chinese",
+        "count": 7044125
+      },
+      {
+        "code": "hi",
+        "name": "Hindi",
+        "count": 5182945
+      },
+      {
+        "code": "ko",
+        "name": "Korean",
+        "count": 4980938
+      },
+      {
+        "code": "ms",
+        "name": "Malay",
+        "count": 4633303
+      },
+      {
+        "code": "arz",
+        "name": "Arabic (Egyptian)",
+        "count": 4490787
+      },
+      {
+        "code": "nl",
+        "name": "Dutch",
+        "count": 4274594
+      },
+      {
+        "code": "uk",
+        "name": "Ukrainian",
+        "count": 4169439
+      },
+      {
+        "code": "az",
+        "name": "Azerbaijani",
+        "count": 3881151
+      },
+      {
+        "code": "ne",
+        "name": "Nepali",
+        "count": 3335674
+      },
+      {
+        "code": "pa",
+        "name": "Panjabi",
+        "count": 2709294
+      },
+      {
+        "code": "he",
+        "name": "Hebrew",
+        "count": 2071227
+      },
+      {
+        "code": "gu",
+        "name": "Gujarati",
+        "count": 1849358
+      },
+      {
+        "code": "sv",
+        "name": "Swedish",
+        "count": 1728013
+      },
+      {
+        "code": "ro",
+        "name": "Romanian",
+        "count": 1543497
+      },
+      {
+        "code": "ckb",
+        "name": "Kurdish, Central",
+        "count": 1533619
+      },
+      {
+        "code": "kk",
+        "name": "Kazakh",
+        "count": 1461872
+      },
+      {
+        "code": "vi",
+        "name": "Vietnamese",
+        "count": 1432360
+      },
+      {
+        "code": "cs",
+        "name": "Czech",
+        "count": 1264847
+      },
+      {
+        "code": "mr",
+        "name": "Marathi",
+        "count": 977344
+      },
+      {
+        "code": "el",
+        "name": "Greek",
+        "count": 940607
+      },
+      {
+        "code": "ky",
+        "name": "Kirghiz",
+        "count": 939679
+      },
+      {
+        "code": "ur",
+        "name": "Urdu",
+        "count": 934367
+      },
+      {
+        "code": "hu",
+        "name": "Hungarian",
+        "count": 930802
+      },
+      {
+        "code": "ca",
+        "name": "Catalan",
+        "count": 678019
+      },
+      {
+        "code": "fi",
+        "name": "Finnish",
+        "count": 666165
+      },
+      {
+        "code": "no",
+        "name": "Norwegian",
+        "count": 611215
+      },
+      {
+        "code": "da",
+        "name": "Danish",
+        "count": 567847
+      },
+      {
+        "code": "ml",
+        "name": "Malayalam",
+        "count": 494810
+      },
+      {
+        "code": "sr",
+        "name": "Serbian",
+        "count": 490352
+      },
+      {
+        "code": "bg",
+        "name": "Bulgarian",
+        "count": 471023
+      },
+      {
+        "code": "bn",
+        "name": "Bengali",
+        "count": 444925
+      },
+      {
+        "code": "sw",
+        "name": "Swahili",
+        "count": 403896
+      },
+      {
+        "code": "hr",
+        "name": "Croatian",
+        "count": 390433
+      },
+      {
+        "code": "sq",
+        "name": "Albanian",
+        "count": 333637
+      },
+      {
+        "code": "sk",
+        "name": "Slovak",
+        "count": 285090
+      },
+      {
+        "code": "tl",
+        "name": "Tagalog",
+        "count": 266701
+      },
+      {
+        "code": "ps",
+        "name": "Pushto",
+        "count": 243550
+      },
+      {
+        "code": "sh",
+        "name": "Serbo-Croatian",
+        "count": 234173
+      },
+      {
+        "code": "sl",
+        "name": "Slovenian",
+        "count": 219377
+      },
+      {
+        "code": "km",
+        "name": "Central Khmer",
+        "count": 144294
+      },
+      {
+        "code": "mk",
+        "name": "Macedonian",
+        "count": 143920
+      },
+      {
+        "code": "ta",
+        "name": "Tamil",
+        "count": 141113
+      },
+      {
+        "code": "hy",
+        "name": "Armenian",
+        "count": 131587
+      },
+      {
+        "code": "ceb",
+        "name": "Cebuano",
+        "count": 120365
+      },
+      {
+        "code": "kn",
+        "name": "Kannada",
+        "count": 119427
+      },
+      {
+        "code": "ce",
+        "name": "Chechen",
+        "count": 113056
+      },
+      {
+        "code": "gl",
+        "name": "Galician",
+        "count": 105290
+      },
+      {
+        "code": "azb",
+        "name": "Azerbaijani, South",
+        "count": 99635
+      },
+      {
+        "code": "lt",
+        "name": "Lithuanian",
+        "count": 99233
+      },
+      {
+        "code": "uz",
+        "name": "Uzbek",
+        "count": 90988
+      },
+      {
+        "code": "si",
+        "name": "Sinhala",
+        "count": 88419
+      },
+      {
+        "code": "af",
+        "name": "Afrikaans",
+        "count": 87329
+      },
+      {
+        "code": "et",
+        "name": "Estonian",
+        "count": 82898
+      },
+      {
+        "code": "bs",
+        "name": "Bosnian",
+        "count": 80354
+      },
+      {
+        "code": "lv",
+        "name": "Latvian",
+        "count": 77839
+      },
+      {
+        "code": "pnb",
+        "name": "Panjabi, Western",
+        "count": 73865
+      },
+      {
+        "code": "lo",
+        "name": "Lao",
+        "count": 66629
+      },
+      {
+        "code": "ka",
+        "name": "Georgian",
+        "count": 59037
+      },
+      {
+        "code": "tt",
+        "name": "Tatar",
+        "count": 48106
+      },
+      {
+        "code": "am",
+        "name": "Amharic",
+        "count": 46328
+      },
+      {
+        "code": "mzn",
+        "name": "Mazanderani",
+        "count": 46234
+      },
+      {
+        "code": "as",
+        "name": "Assamese",
+        "count": 42955
+      },
+      {
+        "code": "is",
+        "name": "Icelandic",
+        "count": 39221
+      },
+      {
+        "code": "my",
+        "name": "Burmese",
+        "count": 33061
+      },
+      {
+        "code": "tg",
+        "name": "Tajik",
+        "count": 32478
+      },
+      {
+        "code": "sah",
+        "name": "Sakha",
+        "count": 32333
+      },
+      {
+        "code": "gd",
+        "name": "Gaelic (Scots)",
+        "count": 31865
+      },
+      {
+        "code": "ku",
+        "name": "Kurdish",
+        "count": 29848
+      },
+      {
+        "code": "sd",
+        "name": "Sindhi",
+        "count": 27396
+      },
+      {
+        "code": "mn",
+        "name": "Mongolian",
+        "count": 25749
+      },
+      {
+        "code": "te",
+        "name": "Telugu",
+        "count": 24878
+      },
+      {
+        "code": "war",
+        "name": "Waray",
+        "count": 19665
+      },
+      {
+        "code": "ie",
+        "name": "Interlingue",
+        "count": 15103
+      },
+      {
+        "code": "so",
+        "name": "Somali",
+        "count": 14716
+      },
+      {
+        "code": "be",
+        "name": "Belarusian",
+        "count": 14305
+      },
+      {
+        "code": "als",
+        "name": "Albanian (Tosk)",
+        "count": 11771
+      },
+      {
+        "code": "fy",
+        "name": "Frisian, Western",
+        "count": 11600
+      },
+      {
+        "code": "ia",
+        "name": "Interlingua",
+        "count": 9793
+      },
+      {
+        "code": "jv",
+        "name": "Javanese",
+        "count": 9669
+      },
+      {
+        "code": "nds",
+        "name": "Low German",
+        "count": 8316
+      },
+      {
+        "code": "mhr",
+        "name": "Mari, Eastern",
+        "count": 8280
+      },
+      {
+        "code": "ba",
+        "name": "Bashkir",
+        "count": 6645
+      },
+      {
+        "code": "gn",
+        "name": "Guarani",
+        "count": 5567
+      },
+      {
+        "code": "jbo",
+        "name": "Lojban",
+        "count": 5394
+      },
+      {
+        "code": "or",
+        "name": "Oriya",
+        "count": 5315
+      },
+      {
+        "code": "nap",
+        "name": "Neapolitan",
+        "count": 4991
+      },
+      {
+        "code": "ug",
+        "name": "Uighur",
+        "count": 4622
+      },
+      {
+        "code": "tk",
+        "name": "Turkmen",
+        "count": 4159
+      },
+      {
+        "code": "ilo",
+        "name": "Iloko",
+        "count": 3644
+      },
+      {
+        "code": "mg",
+        "name": "Malagasy",
+        "count": 3052
+      },
+      {
+        "code": "bo",
+        "name": "Tibetan",
+        "count": 2924
+      },
+      {
+        "code": "su",
+        "name": "Sundanese",
+        "count": 2862
+      },
+      {
+        "code": "io",
+        "name": "Ido",
+        "count": 2715
+      },
+      {
+        "code": "min",
+        "name": "Minangkabau",
+        "count": 2528
+      },
+      {
+        "code": "ga",
+        "name": "Irish",
+        "count": 1889
+      },
+      {
+        "code": "ht",
+        "name": "Haitian",
+        "count": 1815
+      },
+      {
+        "code": "kw",
+        "name": "Cornish",
+        "count": 1580
+      },
+      {
+        "code": "lez",
+        "name": "Lezghian",
+        "count": 1460
+      },
+      {
+        "code": "dv",
+        "name": "Divehi",
+        "count": 1212
+      },
+      {
+        "code": "ast",
+        "name": "Asturian",
+        "count": 1009
+      },
+      {
+        "code": "bh",
+        "name": "Bihari",
+        "count": 964
+      },
+      {
+        "code": "pms",
+        "name": "Piedmontese",
+        "count": 828
+      },
+      {
+        "code": "pam",
+        "name": "Pampanga",
+        "count": 784
+      },
+      {
+        "code": "yue",
+        "name": "Yue Chinese",
+        "count": 736
+      },
+      {
+        "code": "yi",
+        "name": "Yiddish",
+        "count": 712
+      },
+      {
+        "code": "hsb",
+        "name": "Sorbian, Upper",
+        "count": 549
+      },
+      {
+        "code": "sco",
+        "name": "Scots",
+        "count": 508
+      },
+      {
+        "code": "cv",
+        "name": "Chuvash",
+        "count": 491
+      },
+      {
+        "code": "xmf",
+        "name": "Mingrelian",
+        "count": 455
+      },
+      {
+        "code": "mai",
+        "name": "Maithili",
+        "count": 431
+      },
+      {
+        "code": "xh",
+        "name": "Xhosa",
+        "count": 420
+      },
+      {
+        "code": "new",
+        "name": "Newari",
+        "count": 411
+      },
+      {
+        "code": "bar",
+        "name": "Bavarian",
+        "count": 392
+      },
+      {
+        "code": "lrc",
+        "name": "Luri, Northern",
+        "count": 380
+      },
+      {
+        "code": "zu",
+        "name": "Zulu",
+        "count": 318
+      },
+      {
+        "code": "sa",
+        "name": "Sanskrit",
+        "count": 287
+      },
+      {
+        "code": "cbk",
+        "name": "Chavacano",
+        "count": 275
+      },
+      {
+        "code": "rw",
+        "name": "Kinyarwanda",
+        "count": 252
+      },
+      {
+        "code": "eml",
+        "name": "Emiliano-Romagnolo",
+        "count": 226
+      },
+      {
+        "code": "gv",
+        "name": "Manx",
+        "count": 222
+      },
+      {
+        "code": "krc",
+        "name": "Karachay-Balkar",
+        "count": 218
+      },
+      {
+        "code": "bpy",
+        "name": "Bishnupriya Manipuri",
+        "count": 200
+      },
+      {
+        "code": "wuu",
+        "name": "Wu Chinese",
+        "count": 164
+      },
+      {
+        "code": "lmo",
+        "name": "Lombard",
+        "count": 140
+      },
+      {
+        "code": "rm",
+        "name": "Raeto-Romance",
+        "count": 118
+      },
+      {
+        "code": "myv",
+        "name": "Erzya",
+        "count": 77
+      },
+      {
+        "code": "bcl",
+        "name": "Bicolano, Central",
+        "count": 76
+      },
+      {
+        "code": "sc",
+        "name": "Sardinian",
+        "count": 74
+      },
+      {
+        "code": "os",
+        "name": "Ossetian",
+        "count": 74
+      },
+      {
+        "code": "mrj",
+        "name": "Mari, Western",
+        "count": 67
+      },
+      {
+        "code": "kv",
+        "name": "Komi",
+        "count": 65
+      },
+      {
+        "code": "xal",
+        "name": "Kalmyk",
+        "count": 62
+      },
+      {
+        "code": "vep",
+        "name": "Veps",
+        "count": 61
+      },
+      {
+        "code": "scn",
+        "name": "Sicilian",
+        "count": 60
+      },
+      {
+        "code": "li",
+        "name": "Limburgish",
+        "count": 55
+      },
+      {
+        "code": "gom",
+        "name": "Konkani, Goan",
+        "count": 53
+      },
+      {
+        "code": "yo",
+        "name": "Yoruba",
+        "count": 50
+      },
+      {
+        "code": "diq",
+        "name": "Dimli",
+        "count": 48
+      },
+      {
+        "code": "bxr",
+        "name": "Buriat, Russia",
+        "count": 45
+      },
+      {
+        "code": "tyv",
+        "name": "Tuvinian",
+        "count": 39
+      },
+      {
+        "code": "av",
+        "name": "Avaric",
+        "count": 35
+      },
+      {
+        "code": "nah",
+        "name": "Nahuatl languages",
+        "count": 31
+      },
+      {
+        "code": "mwl",
+        "name": "Mirandese",
+        "count": 23
+      },
+      {
+        "code": "vls",
+        "name": "West Flemish",
+        "count": 21
+      },
+      {
+        "code": "vec",
+        "name": "Venetian",
+        "count": 12
+      },
+      {
+        "code": "pfl",
+        "name": "Pfaelzisch",
+        "count": 10
+      },
+      {
+        "code": "dty",
+        "name": "Dotyali",
+        "count": 8
+      },
+      {
+        "code": "frr",
+        "name": "Frisian, Northern",
+        "count": 4
+      },
+      {
+        "code": "rue",
+        "name": "Rusyn",
+        "count": 4
+      },
+      {
+        "code": "dsb",
+        "name": "Sorbian, Lower",
+        "count": 4
+      },
+      {
+        "code": "co",
+        "name": "Corsican",
+        "count": 2
+      }
+    ]
+  }

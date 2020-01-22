@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import 'variables';
+@import '~bootstrap/scss/bootstrap';
+@import "~bootstrap-datepicker/dist/css/bootstrap-datepicker3.css";
+@import "~selectize-bootstrap4-theme/dist/css/selectize.bootstrap4.css";
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+@import '~@fortawesome/fontawesome-free/scss/regular';
+@import '~@fortawesome/fontawesome-free/scss/solid';
+@import '~@fortawesome/fontawesome-free/scss/brands';
+/* General Styles */
+body, main { background:#fff; }
+.mh-500 { min-height:500px; }
+.icon-sm { width:20px; }
+.icon-md { width:40px; }
+.icon-lg { width:80px; }
+.text-red { color: red; }
+.size-md { font-size: 0.8rem; }
+/* Header Styles */
+.navbar-brand img { height:30px; }
+.navbar-nav .shortlist .badge { border-radius:50%; }
+/* Record Listing Page Styles */
+.wrap { float:left; width:100%; }
+.wrap .form-check { float:left; background:#000; color:#fff; margin:0 5px 5px 0; padding:5px 10px 5px 30px; }
+/* Record Edit Page Styles */
+.profile-photo { cursor:pointer; }
+.photo-selected { border:1px solid #000; }
+.affiliation-logo { width:80px; }
+/* Selectize Dropdown Styles */
+.form-control.selectize-control .selectize-dropdown .selectize-dropdown-content { font-size:0.8rem; }
+/* Footer Styles */
+footer { color:#999; font-size:0.9em; }
+footer a { color:#999; }
+footer a:hover { color:#fff; }
+/* Full Screen Model Styles */
+.model-full .modal-dialog { width: 100% !important; height: 100% !important;
+min-width: 100% !important; min-height: 100% !important; margin: 0 !important; background:#fff; }
+.model-full .modal-content { border:none; }
+.model-full .modal-body { padding:90px 0; }
+.model-full .modal-header,
+.model-full .modal-footer { width:100%; position:fixed; left:0px; z-index:10; background:#fff; }
+.model-full .modal-header { top:0px; }
+.model-full .modal-footer { bottom:0px; }
+/*
+.btn-inline { min-width:200px; }
+.clickable { cursor:pointer; }
+.content {  background:#fff; padding-top: 70px; padding-bottom:20px; }
+.coming-soon { padding:200px; }
+h3 .label { font-size:12px; font-weight:normal; }
+*/
+/*
+.panel.description { border-top:1px solid #eee; font-size:0.8em; margin-top:5px; padding:5px 0; box-shadow:none; color:#999; }
+.pagination { margin-top:0 !important; }
+*/
+/*
+.shortlist .btn-primary { background:#000; color:#fff; }
+.shortlist .btn { min-width:110px; border:none; }
+*/
